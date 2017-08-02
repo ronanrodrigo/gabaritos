@@ -4,7 +4,7 @@ import Nimble
 class ___FILEBASENAMEASIDENTIFIER___: QuickSpec {
 
     override func spec() {
-        super.spect()
+        super.spec()
 
         describe("Given ") {
 
