@@ -1,7 +1,7 @@
-import QuickLook
+import Quick
 import Nimble
 
-class ___FILEBASENAMEASIDENTIFIER___Spec: QuickSpec {
+class ___FILEBASENAMEASIDENTIFIER___: QuickSpec {
 
     override func spec() {
         super.spect()
