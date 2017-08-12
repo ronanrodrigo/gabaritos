@@ -1,4 +1,2 @@
-import Foundation
-
-class ___FILEBASENAMEASIDENTIFIER___ {
+final class ___FILEBASENAMEASIDENTIFIER___ {
 }

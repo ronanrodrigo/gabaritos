@@ -1,16 +1,20 @@
 import Quick
 import Nimble
 
-class ___FILEBASENAMEASIDENTIFIER___: QuickSpec {
+final class ___FILEBASENAMEASIDENTIFIER___: QuickSpec {
 
     override func spec() {
         super.spec()
 
-        describe("Given ") {
+        describe("the ___FILEBASENAMEASIDENTIFIER___") {
 
-            context("when ") {
+            describe("with <a pre-condition>") {
 
-                it("then ") {
+                context("if <a context>") {
+
+                    it("[has|is] ") {
+                    }
+
                 }
 
             }
